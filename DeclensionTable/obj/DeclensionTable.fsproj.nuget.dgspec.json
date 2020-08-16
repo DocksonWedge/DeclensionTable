@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Docks\\source\\repos\\DeclensionTable\\DeclensionTable\\DeclensionTable.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Docks\\source\\repos\\DeclensionTable\\DeclensionTable\\DeclensionTable.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Docks\\source\\repos\\DeclensionTable\\DeclensionTable\\DeclensionTable.fsproj",
+        "projectName": "DeclensionTable",
+        "projectPath": "C:\\Users\\Docks\\source\\repos\\DeclensionTable\\DeclensionTable\\DeclensionTable.fsproj",
+        "packagesPath": "C:\\Users\\Docks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Docks\\source\\repos\\DeclensionTable\\DeclensionTable\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Docks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Data": {
+              "target": "Package",
+              "version": "[3.3.3, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5QINEVMw/UTmuyfu04Dva1QrnSKp9Jkg+srCdAx02n1LykyRyreABsCznzfXl73UF674Rf93BAZzxl7xFf/9ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Docks\\source\\repos\\DeclensionTable\\DeclensionTable\\DeclensionTable.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Docks\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512",
+    "C:\\Users\\Docks\\.nuget\\packages\\fsharp.data\\3.3.3\\fsharp.data.3.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
